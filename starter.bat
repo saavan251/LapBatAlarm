@@ -1,0 +1,1 @@
+python "C:\\Users\\VISHAL ASHANK\\Desktop\\projects\\Scripts\\batteryAlarm\\batteryAlarm.py"
